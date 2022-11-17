@@ -10,5 +10,6 @@ Skills:
 - CSS3
 - SASS
 - Javascript
+- Typescript
 - React
 - Node.js

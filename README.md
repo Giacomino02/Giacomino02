@@ -13,3 +13,7 @@ Skills:
 - Typescript
 - React
 - Node.js
+- Java
+- MySql
+- Php
+- Laravel
